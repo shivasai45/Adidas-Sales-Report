@@ -14,7 +14,7 @@ An interactive and insightful sales dashboard created using Microsoft Excel, sho
 - [Dashboard Preview](#dashboard-preview)
 - [Future Improvements](#future-improvements)
 - [Analysis Sheet](#Analysis-Sheet)
-- [Contact](#contact)
+- [Contributing](#Contributing)
 
 ## Project Overview
 
