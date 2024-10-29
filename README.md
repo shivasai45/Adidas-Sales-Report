@@ -76,3 +76,7 @@ The detailed analysis of the Adidas sales data is available in this [here](https
 - In-depth data analysis and visualizations.
 - Key metrics and trends identified from the sales data.
 - Recommendations based on the analysis.
+
+## Contributing
+
+Contributions are welcome! Please create a pull request or open an issue to discuss any changes.
